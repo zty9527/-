@@ -1,0 +1,5 @@
+{
+  "name": "PoliceCertGuard - 警用数字证书智能管理系统",
+  "description": "专为公安内网设计的数字证书全生命周期管理系统，集成智能柜控、审批流转与AI安全审计功能。",
+  "requestFramePermissions": []
+}
